@@ -1,3 +1,3 @@
-# quantproject
+# Options Pricing Model
 
-yooooo
+Options Pricing Model for Cryptocurrency Markets
